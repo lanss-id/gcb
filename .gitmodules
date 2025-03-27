@@ -1,9 +1,9 @@
 [submodule "submodules/mobile"]
-	path = submodules/mobile
+	path = apps/mobile
 	url = git@github.com:lanss-id/gcb-mobile.git
 [submodule "submodules/api"]
-	path = submodules/api
+	path = apps/api
 	url = git@github.com:lanss-id/gcb-api.git
 [submodule "submodules/packages"]
-	path = submodules/packages
+	path = packages
 	url = git@github.com:lanss-id/gcb-packages.git
